@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "English/story.md",
+            "file": "English/Formal Email.md",
             "mode": "source",
             "source": true
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "English/story.md",
+                "file": "English/Formal Email.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,13 +89,13 @@
   },
   "active": "6288cbface7fbe72",
   "lastOpenFiles": [
+    "English/Formal Email.md",
     "English/story.md",
     "Čjl/Literatura/Bedřich Bridel.md",
     "README.md",
     "hardWare/graphicCard.md",
     "hardWare/DVD.md",
     "ToDo.md",
-    "English/Formal Email.md",
     "Elektrotechnika/AirConditioner.md",
     "Fyzika/Keplerovy zákony.md",
     "Fyzika/gravity.md"
