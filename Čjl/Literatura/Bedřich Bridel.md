@@ -16,3 +16,4 @@ Otázky k textu Zmínka nebude žádná?
 8. Z jakého prostředí čerpá Bridel motivy pro své metafory?
    - z vesnického prostředí
 9. Za jakých okolností zemřel Bedřich Bridel?
+   - zamře roku 1680 na mor když pečuje o další morové oběti
