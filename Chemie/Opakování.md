@@ -1,0 +1,2 @@
+- Když jde poslední OH skupina v sacharidu doprava je to T sacharid
+- Když jde poslední OH skupina v sacharidu doleva je to L sacharid (L sacharidy jsou obvykle nepřírodní)

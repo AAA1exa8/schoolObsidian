@@ -1,0 +1,103 @@
+{
+  "main": {
+    "id": "40e019f405e7e3e1",
+    "type": "split",
+    "children": [
+      {
+        "id": "6288cbface7fbe72",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Čjl/Literatura/Bedřich Bridel.md",
+            "mode": "source",
+            "source": true
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "a128c99b0decc0e6",
+    "type": "split",
+    "children": [
+      {
+        "id": "896e2ad86b47406a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "dba74d0d53d5951c",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "3192db0979339756",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "d32f436032a61c70",
+    "type": "split",
+    "children": [
+      {
+        "id": "eb470459d127cf77",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1bc1fdd471a34401",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Čjl/Literatura/Bedřich Bridel.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "6288cbface7fbe72",
+  "lastOpenFiles": [
+    "Čjl/Literatura/Bedřich Bridel.md",
+    "hardWare/graphicCard.md",
+    "hardWare/DVD.md",
+    "ToDo.md",
+    "English/Formal Email.md",
+    "Elektrotechnika/AirConditioner.md",
+    "Fyzika/Keplerovy zákony.md",
+    "Fyzika/gravity.md",
+    "Fyzika/mechanickaPrace.md",
+    "Debílci/chakretardi.md"
+  ]
+}

@@ -1,0 +1,16 @@
+- [ ] prezentačky
+	- [x] recenze
+	- [ ] rozhovor
+- [ ] knihy do čj
+	- [ ] lakomec
+	- [ ] romeo a julie
+	- [ ] podkoní a žák
+	- [ ] Podovodník
+	- [ ] (hamlet)
+- [ ] chemie prezentace
+- [ ] elektrotechnika prezentace
+- [ ] angličtina
+	- [ ] příběh
+		- [ ] odeslat
+	- [x] dopis
+		- [ ] odeslat
