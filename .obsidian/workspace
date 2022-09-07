@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Čjl/Literatura/barokní Literatura.md",
+            "file": "Matematika/quadRovnice.md",
             "mode": "source",
             "source": true
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Čjl/Literatura/barokní Literatura.md",
+                "file": "Matematika/quadRovnice.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,10 +89,10 @@
   },
   "active": "6288cbface7fbe72",
   "lastOpenFiles": [
+    "Matematika/quadRovnice.md",
+    "Fyzika/gravity.md",
     "Čjl/Literatura/barokní Literatura.md",
     "English/story.md",
-    "Untitled.md",
-    "Fyzika/gravity.md",
     "hardWare/UPS.md",
     "Čjl/Literatura/otazkyCestinaHusitstvi.md",
     "networking/networkLayer.md",
