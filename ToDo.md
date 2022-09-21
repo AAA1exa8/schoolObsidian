@@ -7,10 +7,13 @@
 	- [ ] podkoní a žák
 	- [ ] Podovodník
 	- [ ] (hamlet)
-- [ ] chemie prezentace
-- [ ] elektrotechnika prezentace
-- [ ] angličtina
-	- [ ] příběh
-		- [ ] odeslat
+- [x] chemie prezentace
+- [x] elektrotechnika prezentace
+- [x] angličtina
+	- [x] příběh
+		- [x] odeslat
 	- [x] dopis
-		- [ ] odeslat
+		- [x] odeslat
+- [ ] čičin
+	- [ ] skauti
+	- [ ] pšeničná mouka
