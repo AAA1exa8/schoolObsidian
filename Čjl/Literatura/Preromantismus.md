@@ -21,8 +21,9 @@
    - věštec
    - bard
 8. Co jsou tzv. Ossianovy zpěvy
-   - 
-9. V čem tkví rozporuplnost Jeana Jacquese Sousseaua
-   - 
+   - jedná se o zfalšované rádoby historické texty
+9. V čem tkví rozporuplnost Jeana Jacquese Rousseaua
+   - Rousseauo bojoval za svobodu a vyzýval lidi k různým věcem které nebyl sám schopen dodržet
+   - napsal knihy o výchově dětí ale sám svoje děti poslal do sirotčince protože se o ně není schopen postarat
 10. Jaké významné události na počátku moderních dějin byly myšlenkami Rousseaua ovlivněny
     - 
