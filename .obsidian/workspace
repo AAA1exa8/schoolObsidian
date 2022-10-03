@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Čjl/Literatura/ReadersNotes.md",
+            "file": "Čjl/Literatura/Preromantismus.md",
             "mode": "source",
             "source": true
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Čjl/Literatura/ReadersNotes.md",
+                "file": "Čjl/Literatura/Preromantismus.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -90,14 +90,14 @@
   "active": "6288cbface7fbe72",
   "lastOpenFiles": [
     "Čjl/Literatura/ReadersNotes.md",
-    "Fyzika/Liquids.md",
-    "ToDo.md",
-    "README.md",
-    "Fyzika/Keplerovy zákony.md",
-    "Fyzika/mechanickaPrace.md",
-    "Fyzika/gravity.md",
-    "English/story.md",
-    "English/Formal Email.md",
-    "Matematika/quadRovnice.md"
+    "Čjl/Literatura/otazkyCestinaHusitstvi.md",
+    "Čjl/Literatura/literaturaVDobeHusitstvi.md",
+    "Čjl/Literatura/humanismus a renesance.md",
+    "Čjl/Literatura/Bedřich Bridel.md",
+    "Čjl/Literatura/barokní Literatura.md",
+    "Datan Analisis in R/Trump case sutdy.md",
+    "hardWare/graphicCard.md",
+    "hardWare/soundCard.md",
+    "hardWare/DVD.md"
   ]
 }
