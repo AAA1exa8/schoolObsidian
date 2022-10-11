@@ -9,9 +9,9 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Čjl/Literatura/Preromantismus.md",
+            "file": "Fyzika/archimedesLaws.md",
             "mode": "source",
-            "source": true
+            "source": false
           }
         }
       }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Čjl/Literatura/Preromantismus.md",
+                "file": "Fyzika/archimedesLaws.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,6 +89,7 @@
   },
   "active": "6288cbface7fbe72",
   "lastOpenFiles": [
+    "Čjl/Literatura/Preromantismus.md",
     "Čjl/Literatura/ReadersNotes.md",
     "Čjl/Literatura/otazkyCestinaHusitstvi.md",
     "Čjl/Literatura/literaturaVDobeHusitstvi.md",
@@ -97,7 +98,6 @@
     "Čjl/Literatura/barokní Literatura.md",
     "Datan Analisis in R/Trump case sutdy.md",
     "hardWare/graphicCard.md",
-    "hardWare/soundCard.md",
-    "hardWare/DVD.md"
+    "hardWare/soundCard.md"
   ]
 }
