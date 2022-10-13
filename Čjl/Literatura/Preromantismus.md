@@ -27,3 +27,21 @@
    - napsal knihy o výchově dětí ale sám svoje děti poslal do sirotčince protože se o ně není schopen postarat
 10. Jaké významné události na počátku moderních dějin byly myšlenkami Rousseaua ovlivněny
     - 
+
+
+1. Vysvětlete co má J. J. Rousseau na mysli tzv. společeskou smlouvou
+   - 
+2. Jaký český spisovatel zpracoval Prévostův román Manon Lescaut? Co bylo na této adaptaci zvláště oceňováno
+   - 
+3. Jaký je vztah René de Chateubrianda k velké francouzské revoluci? Zjisěte a uveďte s jakou kulinářskou specialitou je tento muž spojen
+   - 
+4. Jaký český obrozenec Chateaubrandovu Atalu přeložil a proč to dělal
+   - 
+5. Čím se zabývá estetika jakožto věda? V čem spočívá velký obrat vnímání přírody v době preromantismu
+   - 
+6. Jakého dramatika doceňuje a popularizuje J. E. Lessing
+   - 
+7. Uveďte jaké hodnoty vyznávalo německé hnutí Sturm und Drang
+   - 
+8. Proč měli naši obrozenci v lásce J.G. Herdera
+   - 
