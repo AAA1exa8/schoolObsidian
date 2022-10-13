@@ -1,4 +1,4 @@
-# Čakry
+# **Čakry**
 - ### Crown chakra
 	- fialová
 	- na vrcholu hlavy
