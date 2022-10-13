@@ -30,18 +30,18 @@
 
 
 1. Vysvětlete co má J. J. Rousseau na mysli tzv. společeskou smlouvou
-   - 
+   - obec
 2. Jaký český spisovatel zpracoval Prévostův román Manon Lescaut? Co bylo na této adaptaci zvláště oceňováno
    - 
 3. Jaký je vztah René de Chateubrianda k velké francouzské revoluci? Zjisěte a uveďte s jakou kulinářskou specialitou je tento muž spojen
-   - 
+   - staví se proti VFR. 
 4. Jaký český obrozenec Chateaubrandovu Atalu přeložil a proč to dělal
-   - 
+   - Josef Jungman. Aby dokázal co čeština dokáže.
 5. Čím se zabývá estetika jakožto věda? V čem spočívá velký obrat vnímání přírody v době preromantismu
    - 
 6. Jakého dramatika doceňuje a popularizuje J. E. Lessing
-   - 
+   - Goethea
 7. Uveďte jaké hodnoty vyznávalo německé hnutí Sturm und Drang
-   - 
+   - vyhraňují se proti uměleckým a morálním hodnotám
 8. Proč měli naši obrozenci v lásce J.G. Herdera
-   - 
+   - velmi se zabývá historií spjatou s tehdy moderními národy
