@@ -45,3 +45,28 @@
    - vyhraňují se proti uměleckým a morálním hodnotám
 8. Proč měli naši obrozenci v lásce J.G. Herdera
    - velmi se zabývá historií spjatou s tehdy moderními národy
+
+1. Z jakého důovu lze J.W. Goehta označit za renesančního člověka
+   - zajímal se o vše
+2. V čem byla pro J. W. Goetha důležitá cesta do Itálie?
+   - setkává se zde s antikou a renesancí
+3. Jak se projevovala tzv. Wertherovská móda?
+   - Oblékají se jako Werther
+4. V čem Vilém Meister překonává mladého Werthera?
+   - Vilém překoná sám sebe a prozře že je sobecký
+5. V jaký moment Faust prohlásí, že je skutečně šťastný? Jaké to má pro něj následky?
+   - Štěstí nalezne ve chvíli kdy pomůže jiným 
+6. Jaká místa v Čechách Goethe navštěvoval a proč?
+   - západní a severní čechy jezdil do lázní loket navštívil 7x
+7. Z jakého důvodu Goethe na Čechy nakonec zanevřel?
+   - protože ho odmítla jeho poslední láska
+8. S jakým literárním druhem je přednostně spojen Friedrich Schiller?
+   - básník
+9. Jaké město je spojeno s rozkvětem německé klasiky?
+   - Výmar
+10. V čem je problematické vyústění Schillerovy hry Loupežníci?
+    - hra nemá jednoznačné ukončení které se týká pomsty ale pomsta přinese více škody
+11. Jaké významné postavě českých dějin věnoval Schiller svoji dramatickou trilogii?
+    - 
+12. Jaké Schillerovo dílo zhudebnil Ludvík van Beethoven?
+    - óda na radost
