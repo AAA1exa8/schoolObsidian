@@ -46,6 +46,7 @@
 8. Proč měli naši obrozenci v lásce J.G. Herdera
    - velmi se zabývá historií spjatou s tehdy moderními národy
 
+
 1. Z jakého důovu lze J.W. Goehta označit za renesančního člověka
    - zajímal se o vše
 2. V čem byla pro J. W. Goetha důležitá cesta do Itálie?

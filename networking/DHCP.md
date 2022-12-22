@@ -3,4 +3,4 @@ ip dhcp pool [name]
 			  default-router [router ip]
 			  dns-server [1.1.1.1]
 			  exit 
-ip dhcp excluded-address [192.168.0.0 + router ip - end]
+ip dhcp excluded-address [192.168.0.0 + router ip - end]+-
