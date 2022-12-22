@@ -14,3 +14,7 @@ As for my other knowledge.
    - The old employees know how the company works so I do not need to waste time of my senior employees to teach newcomers everything
    - If I have my development team in tact junior developers don't need to learn whole new codebase from scratch.
    - With working HR we can evaluate the value of employees and fire some of them to cut expenses
+
+
+Thank You and have a good rest of your day
+Alexandr Pleskot
