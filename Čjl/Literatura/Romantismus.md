@@ -29,3 +29,42 @@
     - poemy
     - dramatické básně
     - próza (historická povídka/román)
+
+
+
+
+
+
+
+
+
+
+
+
+
+# 4. Část
+
+1. Jaký umělecký směr se pěstoval za Napoleona? Proč tomu tak bylo?
+   - Osvícenský
+2. jaké mezníky francouzských dějin zažil Victor Hugo?
+   - Monarchie
+   - VFR
+   - Napoleon
+3. Jak Victor Hugo přistupoval k úloze a poslání básníka? 
+   - Píše aby změnil svět
+   - Basník je ozvěna společnosti
+4. Kde strávil Victor Hugo většinu své emigrace a proč? 
+   - Na Normannských ostrovech
+5. Do jaké míry je Chrám Matky boží v Paříži historickým románem?
+   - má smyšlené postavy dosazené do historického románu
+6. Co tomuto románu tradičně vyčítala literární kritika?
+   - 
+7. Proč komisař Javert v jistém Hugově románu spáchá sebevraždu?
+   - nemůže se srovna s tím že mu Jean zachránil život
+8. Kolik bylo Dumasových mušketýrů? Vyjmenujte je a objasněte jejich počet.
+   - 3 + Dartaňan
+9. Proč zůstával Stendhal dlouhou dobu nepochopen a nedoceněn?
+   - Psal modernějším způsobem, nebudoval něco velkého ale psal spíš intuitivně
+   - Spoléhal se na to že si čtenář dokáže domyslet věci
+10. Vysvětlete název románu Zpověď dítěte svého věku. Kdo jej napsal?
+    - Jde o zpověď autora jakožto dítěte z svojí dobu. Napsal jej milenec Goerge Sand(ové)
