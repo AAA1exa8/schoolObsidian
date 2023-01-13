@@ -46,8 +46,8 @@
 
 1. Jaký umělecký směr se pěstoval za Napoleona? Proč tomu tak bylo?
    - Osvícenský
+   - Klasicismus
 2. jaké mezníky francouzských dějin zažil Victor Hugo?
-   - Monarchie
    - VFR
    - Napoleon
 3. Jak Victor Hugo přistupoval k úloze a poslání básníka? 
@@ -58,7 +58,7 @@
 5. Do jaké míry je Chrám Matky boží v Paříži historickým románem?
    - má smyšlené postavy dosazené do historického románu
 6. Co tomuto románu tradičně vyčítala literární kritika?
-   - 
+   - postavy jsou silně černobílé
 7. Proč komisař Javert v jistém Hugově románu spáchá sebevraždu?
    - nemůže se srovna s tím že mu Jean zachránil život
 8. Kolik bylo Dumasových mušketýrů? Vyjmenujte je a objasněte jejich počet.
