@@ -1,4 +1,3 @@
-FCEPAPER2-WR I T I N G1Part 2 -Formal letter or emailFormal lettersmay be written to an individual or to an organisation. The purpose may be, for example,toapply forpart-time or vacationwork(application letter)toapply for studyorscholarshipopportunity (application letter)tocomplainabout something (complaint letter)tomake suggestionsabout somethingtorequest information(enquiry letter)In many exam questions, you will be told what to include in your reply.Make sure that your reply answers any questions that you were asked in the taskandtakes into account any additional information that you have been told to mention
 1. Jak reformy Josefa II. ovlivnily počátky národního obrození? 
    - jazykové zákony zavádí jeden jazyk a to Německý
 2. Jak velká francouzská revoluce ovlivnila myšlení v Německu nebo v Čechách? 
