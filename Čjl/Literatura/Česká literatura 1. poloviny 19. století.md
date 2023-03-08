@@ -1,3 +1,5 @@
+
+## Karel Hynek Mácha
 1. Vysvětlete, proč Mácha používal křestní jména Karel Hynek.
    - Vlastenecké důvody (jméno karla IV a Hynek jako české jméno ignác)
 2. Co všechno si Mácha zapisoval do svých deníků?
@@ -29,3 +31,70 @@
      - metafory
      - oxymorony
      - kontrasty
+
+
+## Karel Jaromír Erben
+
+1. V jakém kraji (nikoli dle současného správního členění) se Erben narodil a jaký to na něho mělo vliv?
+   - Podkrkonoší Miletín
+2. Jaký význam mělo pro Erbena setkání s Františkem Palackým? 
+   - Palacký ho rozpozná jako velký talent
+3. Jakým žánrům lidové tvorby se Erben nejvíce věnoval?
+   - pohádky
+   - písně
+4. Jaký vědecký zájem vedl Erbena ke studiu lidové slovesnosti?
+   - sběratelství
+5. Kterou slovanskou zemi Erben důvěrněji poznal a za jakých okolností?
+   - Chorvatsko
+6. Jaká balada z Kytice je nejstarší a s kým zde Erben polemizuje?
+   - Záhořovo lože
+7. Jaké básnické prostředky Erben v Kytici významně uplatnil?
+   - 
+8. Jaká jsou klíčová témata Kytice? 
+   - vztahy a láska mezi dětmi a matkou obvykle
+9. Uveďte, které znaky Erbenova díla náleží romantismu a které biedermeieru. 
+   - 
+10. Uveďte názvy balad, ke kterým patří ilustrace (1-5) zobrazené v kvízu.
+
+
+
+## Karel Havlíček Borovský
+1. Proč si Karel Havlíček říkal Borovský? Jak se původně nazýval Havlíčkův Brod? Jaké jiné Brody znáte?
+   - Narodil se u Borového Brodu
+2. Z jakého důvodu se chtěl mladý Havlíček stát knězem? Proč se jím nestal?
+   - Kvůli faráři brůžkovy
+   - Zjistí že Katolíci jsou idioti
+3. Do jakých periodik Havlíček přispíval? Jaké články do nich psal? 
+   - Psal do novin Epigramy
+   - Česká včeal
+   - Šotek
+   - Periodiky
+     - Slovan
+     - Pražské novimy
+     - národní novimy
+4. Kde se nachází Brixen? Jakého státu byl v Havlíčkově době součástí? Uveďte jméno nejbližšího většího města. 
+   - V Itálii
+5. Z jakého důvodu byl Havlíček do Brixenu deportován? Jak dlouho zde pobyl? 
+   - Protože je příliš politicky aktivní a nepohodlný státu
+   - Tráví zde 4 roky
+6. Jaké mýty jsou spojeny s Karlem Havlíčkem Borovským? 
+   - Božena němcová hodila na jeho hrob trnovou korunu
+7. Charakterizujte Havlíčkův styl psaní. 
+   - Věcný
+   - břitký
+   - ironický
+8. Kdy a kde se odehrává Křest svatého Vladimíra? Co zde Havlíček řeší? 
+   - Odehrává se v rusku
+   - Odehrává se to v nejstarší historii ruska 10. století
+   - Absolutismus a náboženství 
+9. Kde vzal Havlíček inspiraci pro Krále Lávru? Co zde kritizuje? 
+   - Má inspiraci z antiky
+   - Kritika absolutismu a lidí co jsou ochotní v něm žít 
+10. Uveďte názvy epigramů, které ve videu zazní.
+    - Selský
+    - Zle matičko zle
+    - Demokratický
+    - Pročpak mají mnišské cechy
+    - Verba docent exempla trahun
+    - Geografický
+    - Česká modlitba 

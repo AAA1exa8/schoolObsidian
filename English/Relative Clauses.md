@@ -34,3 +34,15 @@ Non-efining
 3. 
 	1. The boss refused to discuss our grievances, which is very outrageous
 	2. Sinil's parents 
+#### Practice
+3. 
+   1. which
+   2. where
+   3. which
+   4. whose
+   5. which
+   6. whom
+   7. who
+   8. when
+   9. which
+   10. which
