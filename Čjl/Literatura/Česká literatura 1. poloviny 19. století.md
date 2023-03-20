@@ -98,3 +98,29 @@
     - Verba docent exempla trahun
     - Geografický
     - Česká modlitba 
+
+
+
+## Božena Němcová
+1. Jak se z Barbory Panklové stala Božena Němcová?
+  - Němcová se stává poté co si vezme Josefa Němce
+  - Jméno Božena příjmá poté co si uvědomí že je vlastenečka
+2. Kde pozdější spisovatelka vyrůstala? Jaký vliv na ni toto prostředí mělo?
+  - Vyrůstala na zámku kde jí bylo dáno německé vzděláni
+3. Kdy, kde a jak se Božena Němcová prosazuje jako spisovatelka?
+  - V první polovině 40. let v Praze se dostává do tehdejšího "kruhu intelektuálů"
+4. Proč se Němcovi často stěhovali? Na jakých místech pobývali? Jaký vliv to mělo na literární tvorbu?
+  - Josef Němec byl často propouštěn z svojí práce
+  - Božena díký tomu poznala mnohem více lidové slovesnosti
+5. Uveďte některé pohádky, které Němcová zpracovala. Jak k lidovému materiálu přistupovala?
+  - Spíše se jím insporovala než mu byla věrná
+6. Co je to Staré bělidlo? V jakém literárním díle B. Němcové figuruje?
+  - Místo kde se odehrává babička
+7. Proč byla 50. léta 19. století pro Němcovou doba nepříznivá?
+  - Byla to doba opresí v které nidko nechtěl mít s Boženou Němcovou nic společného a ona byla v finanční krizy
+8. K jakým literárním směrům se tvorba B. Němcové řadí a proč?
+  - Obvykle se řadí k realsmu protože se v jejích dílech projevuje chování společnosti tak jak je
+9. V čem je Babička netradičním literárním dílem?
+  - Jsou to idealizované vzpomínky boženy němcové 
+10. Charakterizujte hlavní hrdinku povídky Divá Bára.
+  - Emancipovaná moderní žena na kterou se shlíží shora
