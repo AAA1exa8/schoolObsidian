@@ -1,5 +1,36 @@
 
 
+## Úvod
+1. Jak na polské povstání proti ruské nadvládě (roku 1831) reagovali čeští vlastenci? 
+   - rozdělí českou společnost ma mladší a starší obrozence
+     - starší považují poláky za radikály
+     - mladí s nimy sympatizují
+2. Jaké problémy řešila před polovinou století česká literární kritika?
+   -  zda-li je dílo napsáno česky teď už se řeší jakou má kvalitu
+3. Jak se v této době proměňuje vztah literátů k lidové tvorbě? 
+   - spíš se jí začínají inspirovat než ji kopírovat
+4. Proč měl u nás individualistický romantismus západního typu nevhodné podmínky k rozvoji? 
+   - velmi kolidoval s obrozenectvým kterému spíš šlo po uniformitě
+   - teď je čas pomoct státu
+5. Vysvětlete, co je to biedermeier. 
+   - vyzdvyhuje dobré vlastnosti střední vrstvy, tedy rodiný život, starání se o blízké atd.
+6. V jakých uměleckých odvětvích se biedermeier nejčastěji uplatňuje a proč? 
+   - literatura, nábytek
+7. V jakém desetiletí se na české scéně ohlašuje realismus a s jakými autory je spojen?
+   -  4.
+   - Karel Havlíček Borovský
+   - Božena Němcová
+8. O jaké proměny české kultury a společnosti usiloval Karel Havlíček Borovský? 
+   - Chce aby literální díla byla kvalitní a aby se na nich jen neoceňovalo to že jsou česky
+   - chce aby lidi doopravdy něco dělaly a ne jen o tom mluvily
+9. Z jakých důvodů český kulturní život po většinu padesátých let stagnoval? 
+   - bachovský absolutismus byla to dobra strachu
+10. Co oceňovali tzv. májovci na Máji a jeho autorovi? Kdo to byli májovci?
+    - Že to je kvalitní dílo na Evropské úrovni
+    - Lidé co poprvé docenily máj
+
+
+
 ## J. K. Tyl
 1. Ve kterém městě se J. K. Tyl narodil? Jak se to v jeho díle odráží? 
    - V kutné hoře
