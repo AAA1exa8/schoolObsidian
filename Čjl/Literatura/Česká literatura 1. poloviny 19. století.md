@@ -1,4 +1,29 @@
 
+
+## J. K. Tyl
+1. Ve kterém městě se J. K. Tyl narodil? Jak se to v jeho díle odráží? 
+   - V kutné hoře
+2. Jaké je téma povídky Rozervanec? Jaké postoje zde Tyl uplatňuje? 
+   - Je o **dvou** postavách, Karlovy a Hynkovy
+   - Oba mají své trápení které řeší ale jeden to překoná a druhý si v tom libuje
+3. Jak se Tylovi na vrcholu jeho kariéry říkalo? Kdo byl nazýván otcem národa a kdo zrádcem národa a proč? (Hledejte mimo video.) 
+   - Miláček národa
+4. S jakými osobnostmi se Tyl setkal v Kajetánském divadle? 
+   - Karel Hynek Mácha
+5. Jaké pražské divadlo se za komunismu jmenovalo Tylovo a proč? 
+   - Stavovské Divadlo
+6. V jakém objektu J. K. Tyl vytvořil budoucí českou hymnu? Kdo k ní složil hudbu? 
+   - Kasárny na náměstí republiky
+   - Složil zde hru Fidlovačka do ní složil hudbu František Škroup
+7. Co se Karlu Havlíčkovi Borovském nelíbilo na Tylově povídce poslední Čech? 
+   - Přišlo mu že to je příliš sentimentální
+8. Proč se Tylovi Kutnohorští havíři nelíbili cenzuře? 
+   - I když to byla historická kniha tak měli velmi aktuální demokratické vyznění
+9. Jaká je dějová zápletka Strakonického dudáka a co se pomocí ní Tyl snaží říct? 
+   - Je o geniálním muzikantovy který dobývá svět ale pak se vrací do vlasti aby jí pomohl
+10. Za jakých okolností a kde J. K. Tyl zemřel?
+    - v 50. letech umírá zcela nemajetný 
+
 ## Karel Hynek Mácha
 1. Vysvětlete, proč Mácha používal křestní jména Karel Hynek.
    - Vlastenecké důvody (jméno karla IV a Hynek jako české jméno ignác)
